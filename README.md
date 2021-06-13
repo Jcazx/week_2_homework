@@ -1,5 +1,5 @@
 # Week 2 homework
-(click here for the deployed application)[https://jcazx.github.io/week_2_homework/]
+[click here for the deployed application](https://jcazx.github.io/week_2_homework/)
 For the week 2 homework we had no starter code and instead had to create our websites from scarthc this week we had to create a personal portfolio that we will update as the course goes on and we learn more skills and navigate becoming better software developers
 
 ## What we did
